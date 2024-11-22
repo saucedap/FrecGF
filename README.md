@@ -3,5 +3,5 @@ Método Esquemático o Cuadrado de Punnett.
 Método Algebraico. 
 Método Dicotómico. 
 Autores: Carlos Patricio Sauceda Acosta, Cipriano Fuentes Verduzco, Juan Luis Pérez Mora.
-Facultad de Agricultura de Agricultura del Valle del Fuerte
+Facultad de Agricultura de Agricultura del Valle del Fuerte.
 Universidad Autónoma de Sinaloa
