@@ -1,4 +1,4 @@
-FreGenFen: es programa para calcular las frecuencias genotípicas y fenotípicas y para ello utiliza tres métodos.
+FrecGF: es programa para calcular las frecuencias genotípicas y fenotípicas y para ello utiliza tres métodos.
 Método Esquemático o Cuadrado de Punnett.
 Método Algebraico. 
 Método Dicotómico. 
